@@ -1,0 +1,7 @@
+.bundle
+**/.DS_Store
+
+# VsCode
+.vscode/
+
+__pycache__/
